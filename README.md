@@ -88,7 +88,7 @@ Presentations: Final Intern Presentation
 
 [Seth Klaassen Resume](images/2025-2026_Klaassen_Resume.pdf)
 
-[General Education Reflection](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[General Education Reflection](images/General%20Education%20Reflection.pdf)
 
 [Cumulative Reflection](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
