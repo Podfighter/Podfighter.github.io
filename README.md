@@ -24,8 +24,7 @@ Big picture contributions: since this is the first semester of our senior design
 ## Project 1 : Intern Project - DMA Command Pipeline
 
 Project description: to transfer data in a faster maner I was tasked with implementing a DMA transfer protocol. This developed into a buffer that would
-send out all data stored within it at high speeds. This also freed up more 
-CPU time as DMA is a off CPU component
+send out all data stored within it at high speeds. This also freed up more CPU time as DMA is a off CPU component
 
 My role: Lead developer
 
@@ -90,6 +89,6 @@ Presentations: Final Intern Presentation
 
 [General Education Reflection](images/General%20Education%20Reflection.pdf)
 
-[Cumulative Reflection](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Cumulative Reflection](images/Cumulative%20reflection.pdf)
 
 [Ethics term paper from EE 2320](images/Klaassen%20-%20EE%20232%20Ethics%20Term%20Paper.pdf)
